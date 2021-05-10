@@ -1,0 +1,149 @@
+.titleText {
+margin-left: 120px;
+}
+
+@font-face {
+  font-family: Moon Light;
+  src: url(Moon_Light.otf);
+}
+div {
+  font-family: Moon;
+  font-size: 33px;
+}
+
+logo {
+  font-family: Moon;
+  font-size: 33px;
+}
+
+.logo {
+background-image: url("../Images/Logo.png");
+background-repeat: no-repeat;
+position: absolute;
+width: 260px;
+height: 260px;
+margin-left: 120px;
+margin-top: 225px;
+}
+
+h1 {
+font-family: Moon;
+font-size: 53px;
+font-weight: normal;
+letter-spacing: 0em;
+text-align: left;
+position: absolute;
+margin-left: 120px;
+margin-top: 500px;
+}
+
+h2 {
+font-family: Assistant;
+font-size: 48px;
+font-style: normal;
+font-weight: 275;
+line-height: 63px;
+letter-spacing: 0em;
+text-align: left;
+position: absolute;
+top: 56.33%;
+}
+
+h3 {
+font-family: "Moon Light";
+font-size: 40px;
+font-style: normal;
+font-weight: 300;
+line-height: 46px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+h4 {
+font-family: Assistant;
+font-style: normal;
+font-weight: 275;
+font-size: 24px;
+line-height: 31px;
+}
+
+p {
+font-family: Assistant;
+font-style: normal;
+font-weight: 275;
+font-size: 16px;
+line-height: 21px;
+position: absolute;
+top: 83.33%;
+}
+
+.sideNav {
+position: absolute;
+background: #22343B;
+width: 71px;
+height: 100%;
+left: 0px;
+top: 0px;
+filter: drop-shadow(4px 0px 12px rgba(34, 52, 59, 0.25));
+}
+
+.menuIconOpen {
+background-image: url("../Images/menuIconOpen.png");
+background-repeat: no-repeat;
+position: absolute;
+left: 0%;
+right: 0%;
+top: 6.57%;
+bottom: 86.85%;
+}
+
+.menuIconEmail {
+background-image: url("../Images/menuIconEmail.png");
+background-repeat: no-repeat;
+position: absolute;
+left: 0%;
+right: 0%;
+top: 67.13%;
+bottom: 26.3%;
+}
+
+.menuIconLinkedin {
+background-image: url("../Images/menuIconLinkedIn.png");
+background-repeat: no-repeat;
+position: absolute;
+left: 0%;
+right: 0%;
+top: 73.7%;
+bottom: 19.72%;
+}
+
+.menuIconBehance {
+background-image: url("../Images/menuIconBehance.png");
+background-repeat: no-repeat;
+position: absolute;
+left: 0%;
+right: 0%;
+top: 80.28%;
+bottom: 13.15%;
+}
+
+.menuIconPinterest {
+background-image: url("../Images/menuIconPinterest.png");
+background-repeat: no-repeat;
+position: absolute;
+left: 0%;
+right: 0%;
+top: 86.85%;
+bottom: 6.57%;
+}
+
+.heroImg {
+background-image: url("../Images/heroImage.png");
+background-repeat: no-repeat;
+width: 1060px;
+height: 750px;
+position: absolute;
+left: 1110px;
+top: 12.96%;
+bottom: 12.96%;
+}
